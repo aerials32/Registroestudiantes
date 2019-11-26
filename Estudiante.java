@@ -17,13 +17,13 @@ public class Estudiante
 
     public Estudiante()
     {
-        this.codigo="0151803";
-        this.nombre="Claudia Gómez";
-        this.telefono="3112490070";
-        this.email="claudiaygomez@ufps.edu.co";
-        this.direccion="Av 17 Libertadores";
-        this.edad=34;
-        this.documento="37391391";
+        this.codigo="000000";
+        this.nombre="Benito Carmelas";
+        this.telefono="00000";
+        this.email="correo@algo.com";
+        this.direccion="calle 31";
+        this.edad=00;
+        this.documento="345345";
         this.tipodoc="cc";
         this.creditos=120;
         this.semestre=20;
